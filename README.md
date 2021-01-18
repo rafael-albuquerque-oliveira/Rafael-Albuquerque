@@ -26,7 +26,7 @@ I'm a passionate individual who loves to learn new things and discover how every
 - Excel
 
 
-## <img align="center" src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" width="200px"/>
+## <img align="center" src="https://media3.giphy.com/media/WtTnAfZn6aVJfBzlN3/giphy.gif" width="400px"/>
 
 <div align="center">
   <h3 align="center">You can find me here:<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
