@@ -1,7 +1,7 @@
 ### Hello world! &nbsp;<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" width="24px">
 I'm a civil engineer entering the data science world. I work with civil engineering projects and starting in the field of data analysis, machine learning and AI.
 
-##**Civil Engineering**
+## **Civil Engineering**
   - Structural projects
   - Architectural projects
   - Project management
