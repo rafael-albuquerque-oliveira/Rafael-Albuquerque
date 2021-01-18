@@ -1,22 +1,28 @@
 ### Hello world!&nbsp;<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" width="24px">
 I'm a civil engineer entering the data science world. I work with civil engineering projects and starting in the field of data analysis, machine learning and AI.
 
-- **Civil Engineer**
+- **Civil Engineering**
   - Structural projects
   - Architectural projects
-  
+  - Project management
+  - AutoCAD
+  - REVIT
+  - MS Project
+
+## Data Science 
 - **Python**
   - Data mining and cleansing
+  - Pandas
+  - Numpy
   - Data analysis
   - Machine Learning 
   - Deep Learning
   - Data Science
 
-## Data Science 
-- SQL
+- **SQL**
 - Data Mining & Visualization
 - Tableau Visualization
-- Pyplot Visualization
+- Plotly Visualization and Dashboards
 - Excel
 
 
