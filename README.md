@@ -1,4 +1,4 @@
-### Hello human! I am Rafael Albuquerque &nbsp;<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+### Hello, human! I am Rafael Albuquerque &nbsp;<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, nice to meet you!
 I'm a passionate individual who loves to learn new things and discover how everything works. Also, I'm a civil engineer entering the data science world. I work with civil engineering projects and starting in the field of data analysis, machine learning and AI.
 
 ## **Civil Engineering**
