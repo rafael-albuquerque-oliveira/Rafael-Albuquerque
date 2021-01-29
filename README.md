@@ -21,7 +21,8 @@ I'm a passionate individual who loves to learn new things and discover how every
 
 - **SQL**
 - Data Mining & Visualization
-- Tableau Visualization
+- Tableau 
+- Power BI
 - Plotly Visualization and Dashboards
 - Excel
 
